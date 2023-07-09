@@ -1,5 +1,9 @@
 # Morpheus Colorectal Cancer DNA Methylation Browser
 
+See an example deployment here: http://colo-flask3.eba-3yxerm5g.us-west-1.elasticbeanstalk.com/
+
+---
+
 This repo provides guidelines on how to visualize and analyze massive Colorectal Cancer DNA Methylation and Clinical datasets from [TCGA](https://portal.gdc.cancer.gov/) using javascript powered heatmaps [Morpheus.js](https://github.com/cmap/morpheus.js) in the browser.
 
 We will utilize [Flask](https://palletsprojects.com/p/flask/) as our webserver to run a local instance of [Morpheus.js](https://github.com/cmap/morpheus.js).
